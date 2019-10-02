@@ -1,0 +1,913 @@
+    1  wget https://downloads.slack-edge.com/linux_releases/slack-desktop-4.0.2-amd64.deb
+    2  sudo apt install ./slack-desktop-*.deb
+    3  cd /
+    4  man ls
+    5  man cd
+    6  man man
+    7  mkdir learning_unix
+    8  mkdir HeavenSent
+    9  cd /
+   10  ls
+   11  cd
+   12  mkdir myWorkspace
+   13  cd myWorkspace
+   14  cd
+   15  cd myWorkspace/
+   16  mkdir Temp
+   17  touch heaven.txt
+   18  mv heaven.txt myWorkspace
+   19  ls
+   20  touch Rags
+   21  ls
+   22  mv Rags temp/riches
+   23  mv Rags temp
+   24  ls temp
+   25  cd
+   26  mkdir Love
+   27  cd Love
+   28  touch rags
+   29  ls
+   30  mv rags Love
+   31  ls
+   32  cd /
+   33  cd
+   34  ls
+   35  pwd
+   36  mkdir workspace
+   37  cd
+   38  ls
+   39  cd workspace
+   40  ls
+   41  touch README.md
+   42  cp README.txt CHANGELOG.txt
+   43  touch temp
+   44  mv README.txt temp
+   45  mv README.md temp
+   46  cp README.txt CHANGELOG.txt
+   47  cp README.md CHANGELOG.md
+   48  cd
+   49  mkdir Temp
+   50  ls
+   51  pwd
+   52  mkdir workspace
+   53  cd
+   54  cd workspace
+   55  ls
+   56  touch README.md
+   57  cp README.md CHANGELOG
+   58  ls
+   59  touch exercise.md
+   60  mv exercise.md /temp
+   61  mv exercise.md temp
+   62  rm exercise.md
+   63  ls
+   64  rm -i exercise.md
+   65  touch exercise.txt
+   66  ls
+   67  rm -i exercise.txt temp
+   68  ls
+   69  touch umuzi.md
+   70  touch recruits.md 
+   71  touch cohort.md
+   72  ls
+   73  nano cohort.md
+   74  nano recruits.md
+   75  nano umuzi.md
+   76  sudo poweroff
+   77  touch temp
+   78  cp temp temp1
+   79  ls
+   80  sudo poweroff
+   81  ls
+   82  rm temp1
+   83  ls
+   84  rm temp Temp Love myWorkspace
+   85  rmdir Temp Love myWorkspace
+   86  cd
+   87  cd Love
+   88  ls
+   89  rmdir Love
+   90  rm Love
+   91  ls
+   92  rmdir Love
+   93  ls
+   94  cd documents
+   95  cd Documents
+   96  thouch pad.md
+   97  touch pad.md
+   98  cd Desktop
+   99  cd
+  100  cd Documents
+  101  touch pad.md
+  102  cd/
+  103  cd
+  104  cd Desktop
+  105  mkdir Work
+  106  exit
+  107  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  108  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  109  sudo apt-get update
+  110  sudo apt-get install sublime-text
+  111  sudo dpkg --configure -a
+  112  sudo apt-get install sublime-text
+  113  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  114  sudo apt-get install apt-transport-https
+  115  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  116  echo "deb https://download.sublimetext.com/ apt/dev/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  117  sudo apt-get update
+  118  sudo apt-get install sublime-text
+  119  sudo snap install code --classic
+  120  Meet the Expert
+  121  What Is Plagiarism? Intentional vs. Accidental
+  122  Academic Integrity and the Consequences of Plagiarizing
+  123  Identifying Plagiarism
+  124  Preventing Plagiarism: Proper Citation and Best Practices
+  125  Putting Plagiarism in Context
+  126  Plagiarism FAQs
+  127  Resources
+  128  Proper Citation
+  129  For Students
+  130  For Teachers
+  131  Students, particularly those in college, are expected to adhere to rigorous codes of conduct that stress academic integrity, including prohibitions against plagiarism. Steering clear of plagiarism, however, can be more difficult than it seems and the consequences can be severe. Fortunately, it’s a problem educators are devoting quite a bit of energy to, and there are new resources available to help students avoid the pitfalls of plagiarism. Read on to learn about practical preventative measures.
+  132  Meet the Expert
+  133  Matt Ashare is an adjunct professor of journalism and media studies in the department of communications at Randolph College, a private liberal arts college located in Lynchburg, Virginia, and formerly known as Randolph-Macon Woman’s College. He graduated from Wesleyan University, with a degree in history and has spent over two decades working in journalism, as a writer, an editor, and a cultural critic. In teaching classes on magazine and feature writing, and news reporting, and serving as faculty advisor to the Randolph College student newspaper The Sundial, he deals head-on with teaching students about the issues surrounding plagiarism in academia and in the real world of publishing.
+  134  158 Students Suspended from UC San Diego for Academic Code Violations Between 2012 and 2014.
+  135  According to the LA Times, more than 1,200 allegations were reported. Punishment included writing a reflective paper, attending an ethical skills seminar, or expulsion.
+  136  Two Students Expelled from University of Virginia Semester at Sea Program for Plagiarism in 2008.
+  137  The school’s single-sanction honor code subjects students to severe penalties after being found guilty of just one violation.
+  138  Plagiarism remains a pressing problem on college campuses. The stakes can be surprisingly high: intentional and even accidental plagiarism is considered a serious offence in academic and/or research settings. But what exactly is plagiarism? Why is plagiarism considered such a serious issue? And, how has online research tools and new digital technological assets changed the way students and academic institutions approach the problem? The following guide focuses on these central questions to explore the nature of this complicated subject. Drawing on expert advice and the most up-to-date research in the field, this guide looks at various strategies that can help students navigate the confusing terrain of scholarly attribution, including how to quote and paraphrase properly, cite from relevant texts accurately, and draw safely on primary and secondary source material without raising the red flag of plagiarism. It will also delve into some of the new online resources that are aiding students and faculty in the fight against plagiarism and offer step-by-step guidelines on how to recognize and avoid it.
+  139  Most college presidents (55%) say that plagiarism in students’ papers has increased over the past 10 years.Among those who have seen an increase in plagiarism, 89% say computers and the Internet have played a major role.
+  140  Source: Pew Research Poll on the Digital Revolution and Higher Education, 2011
+  141  What Is Plagiarism? Intentional vs. Accidental
+  142  In theory, plagiarism is a fairly simple concept: it involves stealing the words and/or ideas of another without attribution or acknowledgment. In practice, however, there are a number of distinct aspects that constitute an act of plagiarism and that distinguish plagiarism from other kinds of academic violations. Individual schools, institutions, and disciplines may employ somewhat different definitions. Let’s look at a few common ways that plagiarism is formally defined by several authoritative 
+  143  Merriam-Webster Dictionary: The act of using another person's words or ideas without giving credit to that person.
+  144  Council of Writing Program Administrators: In an instructional setting, plagiarism occurs when a writer deliberately uses someone else’s language, ideas, or other original material without acknowledging its source.
+  145  Indiana University Bloomington School of Education: Plagiarism is defined as presenting someone else's work, including the work of other students, as one's own. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged, unless the information is common knowledge.
+  146  Harvard College Writing Program Guide to Using Sources: In academic writing, it is considered plagiarism to draw any idea or any language from someone else without adequately crediting that source in your paper. It doesn't matter whether the source is a published author, another student, a Web site without clear authorship, a Web site that sells academic papers, or any other person: Taking credit for anyone else's work is stealing, and it is unacceptable in all academic situations, whether you do it intentionally or by accident.
+  147  Purdue University Online Writing Lab: Some actions can almost unquestionably be labeled plagiarism, such as buying, stealing, or borrowing a paper (including copying an entire paper or article from the Web); hiring someone to write your paper for you; and copying large sections of text from a source without quotation marks or proper citation. But then there are actions that are usually in more of a gray area, such as using the words of a source too closely when paraphrasing (where quotation marks should have been used) or building on someone's ideas without citing their spoken or written work. Sometimes teachers suspecting students of plagiarism will consider the students' intent, and whether it appeared the student was deliberately trying to make ideas of others appear to be his or her own. However, other teachers and administrators may not distinguish between deliberate and accidental plagiarism.
+  148  As one can see from the graduated nature of these definitions, plagiarism often isn’t as straightforward as it may at first seem and policies on plagiarism set forth by different professors, administrators, and institutions reflect this fact. The rapid growth of a new medium for communications and research — the Internet — has complicated matters to some degree. To illustrate, let’s start with the most basic, blatant example of plagiarism — what we’ll call “intentional appropriation.” Then, using a series of questions that any student should familiarize him or herself with, we’ll investigate the so-called gray areas, including something that’s come to be known as “patchwork writing.” Intentional Appropriation: The Cardinal Sin of PlagiarismIn the introduction to their 2007 collection of critical essays, Culture, Identity and Technologies in the Star Wars Films, Carlo Silvio and Tony M. Vinci write, “Few popular filmic narratives have so captivated the public’s imagination and invited as much critical commentary as George Lucas’s Star Wars series. First release in May of 1977, Episode IV: A New Hope (then simply entitled Star Wars) quickly became the highest grossing film of all time as it redefined the cinematic use of special effects and ushered in a new era of the Hollywood blockbuster.” Those two sentences contain some information that might be considered public knowledge: the fact that the first film came out in May of 1977 and that it became “the highest grossing film of all time.” But, they are unique in their formulation and they contain ideas and constructs that essentially “belong” to the authors, like the premise that Star Wars “redefined the cinematic use of special effects and ushered in a new era of the Hollywood blockbuster.” Even if you agree with the authors and, after reading those sentences, feel as if they’ve summed up your own opinion, using those sentences without quotation marks, and without explicitly crediting Silvio and Vinci, is plagiarism. In other words, you don’t have to steal the entire essay or even a complete paragraph: two sentences, copied from a text without attribution, and thus passed off as your own work, are enough to constitute plagiarism in its most basic form. Accidental PlagiarismIn many colleges and universities, plagiarism is an academic violation that falls under purview of a larger honor code, which requires students to adhere to various standards of behavior. Lying, cheating, and stealing are three of the elemental transgressions prohibited by an honor code. If we consider plagiarism to be a kind of academic theft of the words and ideas of another, which is how it is typically defined, then the implications of intentionally appropriating someone else’s work are obvious. Not only does it amount to stealing, but it’s also a kind of cheating, since the plagiarist is attempting to unfairly inflate his or her grade through an act of misrepresentation. But what if a student meant to credit the original author? Let’s say you’re writing an essay about Star Wars for a film studies class or a class on modern mythologies; you come across the introduction to Culture, Identity and Technologies in the Star Wars Films; you quickly copy a paragraph or a couple of sentences from the introduction; and, as you rush to finish the paper on time, you simply forget to include a citation. In such a case, while your intention was not to deceive, it’s still a case of plagiarism. However, lying and evidence of willful deception compound the offense. And, as the Purdue University Online Writing Lab guidelines point out, intent can be an important factor: Acting in good faith and coming clean about the “accidental” nature of the infraction-rather than denying the obvious-can be a mitigating factor when it comes to sanctions.
+  149  Academic Integrity and the
+  150  Consequences of Plagiarizing
+  151  FAMOUS CASE Vice President Joe Biden took himself out of the running for the 1988 Democratic presidential nomination when it surfaced that he’d been caught plagiarizing in law school 23 years earlier.
+  152  I tell my students that there are three ways to look at plagiarism and its potential ramifications. The first is that it amounts the law of the land in academia. It isn’t necessarily illegal to plagiarize, at least not in the criminal court system. But attending college is a privilege. All colleges and universities have an academic code of conduct, that covers plagiarism and other forms of cheating, and those that violate the code can face serious consequences. These vary from school to school, but they can include everything from failing an assignment or an entire class to suspension and/or expulsion, depending on the severity of the offense.
+  153  Secondly, it’s an insidious and often pointless form of cheating. When you plagiarize, you steal other people’s words and ideas, which cheapens the entire notion of academic integrity and intellectual honesty. It’s not fair to other students, who are presumably working hard within the rules, and it ultimately cheats the plagiarizer out of the opportunity to experience genuine intellectual growth. And, if you’re going to go through the trouble of finding good source material, why not take credit for your research efforts by providing a citation?
+  154  FAMOUS CASE As he battles for the 2016 Republican presidential nomination, Senator Rand Paul has had to fight off accusations that he used plagiarized material in several speeches and in one of his books.
+  155  Another good reason to avoid plagiarism is that it’s embarrassing and can define a person’s reputation. One incidence of plagiarism on a college transcript is a reflection of who that person is and what they represent. That’s a lot to risk.
+  156  Identifying Plagiarism
+  157  Whether intentional or accidental, plagiarism can occur in several different ways. Below is a breakdown of the most common situations. Gray Areas: Paraphrasing, Summarizing, and Common KnowledgeIn keeping with the dictionary definition of plagiarism, academic policies regarding the infraction don’t just cover clear-cut, word-for-word copying without citation. They also include a broader class of offenses that include stealing concepts or ideas from another source, as well as inadequate paraphrasing and summarization of an author’s words. The ease with which text can be copied and pasted from websites and other online and digital sources has created new problems that fall under the heading of plagiarism, the most common of which is becoming commonly known as “patchwriting.” One way to view these issues is in terms of a paradigm shift in what is expected of students as they transition from high school to college. A typical high school writing assignment might require students to read and then summarize a text, whether it is a section in a social studies textbook or a chapter in a novel, in order to shore up reading comprehension, and develop expository writing skills. Because the students are only drawing on one text, attribution and citation are generally reserved for direct quotes. In college, however, students move beyond summarizing individual texts and into the more complicated realm of synthesizing ideas from a variety of sources. They are expected to read and research beyond the confines of a single book, chapter, or essay, and to use critical thinking skills to weigh different arguments, compare and contrast conflicting viewpoints, and weigh in with their own analysis of the issue or subject. This requires carefully delineating one’s own words and ideas from those found elsewhere, keeping track of numerous sources, and using proper citation and attribution styles, which can vary from discipline to discipline. Summarizing, paraphrasing, and quoting directly from sources are now integrated into writing that also requires students to express their own ideas. And that, understandably, adds up to a far more complicated and potentially confusing process. To Cite or Not to Cite: The Common Knowledge Exemption
+  158  The Harvard College Writing Program Guide to Using Sources defines common knowledge as, “information generally known to an educated reader, such as widely known facts and dates, and, more rarely, ideas or language. Facts, ideas, and language that are distinct and unique products of a particular individual's work do not count as common knowledge and must always be cited.”
+  159  One of the first areas of confusion regarding plagiarism that students coming from high school to college are apt to confront is the question of what constitutes common knowledge and, therefore, does not require attribution. In general, simple factual information and common expressions are not subject to plagiarism restrictions; however, complex ideas, analyses, opinions, and interpretations are subject, and should be cited.
+  160  Wikipedia.org, while it’s often not the most well regarded source in academic settings, is actually a good guide for this because the best pages on Wikipedia aim to include citations for everything that isn’t common knowledge or request for the inclusion of a citation. It’s not foolproof, but it’s helpful in understanding the difference between what is and isn’t common knowledge.
+  161  Example of common knowledge:
+  162  The Wikipedia.org entry for director George Lucas correctly does not include a footnote citation for his full name (George Walton Lucas, Jr.), his birthdate (May 14, 1944), or his place of birth (Modesto, CA). Those facts are all part of the public record and can rightly be considered common knowledge, even if they’re not the sort of thing one would be expected to know off the top of his or her head. But, his estimated net worth as of 2015 (five billion) is attributed to Forbes magazine, because it’s specific information that might be disputable. In the opening paragraph, the entry states, “He is best known as the creator of the Star Wars and Indiana Jones franchises,” without citation, because it’s a general factual observation. It continues, “Lucas founded Lucasfilm and led the company as chairman and chief executive before selling it to the Walt Disney Company in 2012,” which has a footnote link to a news report on the sale. One could argue that the detail about the sale is also potentially common knowledge, but it never hurts to cite a source.Paraphrasing and Summarizing: Danger ZonesOne of the common areas of confusion and misunderstanding for students wrestling with the concept of plagiarism is paraphrasing and summarization. Both are useful strategies in writing when used properly. Here’s a useful rule of thumb: If you find yourself changing a few words here and there in someone else’s writing, tinkering with a text in the hopes of making it your own, you’re asking for trouble. What you’ll end up with may not be word-for-word copying, but you’re still stealing the thoughts, ideas, and formulations of another writer, and that’s plagiarism. Additionally, it also may not amount to a successful paraphrase or summary. Either way, it does require a citation. But, first let’s differentiate the two:
+  163  Paraphrasing involves reformulating a quote or restating a premise or point taken from a discrete section of text for the purposes of clarity or style. It can be useful for simplifying overly technical language, for updating antiquated language, or for bringing into sharper focus a specific concept or idea raised by the author.
+  164  A summary takes a larger section of text, perhaps even an entire chapter or essay, and boils it down into one or several key points that have specific relevance. As a result, a paraphrase is often roughly the same length as the original text, while a summary is always significantly shorter.
+  165  Examples of paraphrasing and summarizing:
+  166  This is an excerpt from a 1995 essay titled “Teaching Mark Twain’s Adventures of Huckleberry Finn” by Dr. Shelly Fisher Fishkin, Professor of American Studies and English at the University of Texas. It is impossible to read Huck Finn intelligently without understanding that Mark Twain's consciousness and awareness is larger than that of any of the characters in the novel, including Huck. Indeed, part of what makes the book so effective is the fact that Huck is too innocent and ignorant to understand what's wrong with his society and what's right about his own transgressive behavior. Twain, on the other hand, knows the score. One must be skeptical about most of what Huck says in order to hear what Twain is saying.
+  167  Unsuccessful paraphrase:It’s hard to read Huck Finn without understanding that the author’s consciousness is bigger than any of the book’s characters, even Huck. One of the things that make the novel so good is that Huck remains blind both to the ills of his society and to the things that are good about his own rebellious behavior. Twain communicates this, and the reader has to listen past Huck’s words to hear what Twain really means to say.Proper paraphrase:In her essay on teaching Huck Finn, Dr. Shelly Fisher Fishkin emphasizes the importance of viewing Huck’s actions, words, and thoughts through the lens of the author, because Twain understood what Huck never could about the virtues of transgressing against unjust societal norms.Summary:Dr. Shelly Fisher Fishkin argues for the importance of teaching Huckleberry Finn precisely because it is a difficult text, one in which the author confronts the evils of racism and slavery through the eyes of a character who’s too naïve to offer a coherent critique of his society, but whose instincts lead him in the right direction. The “Patchwriting” Problem
+  168  In music, sampling refers to a process by which bits and pieces of existing song compositions are cut and pasted together into new works. Even as this sonic collage technique has gained respectability, it’s remained controversial, primarily because it’s not entirely clear what is and isn’t permissible under current laws governing copyright, licensing, and authorial ownership. So-called “patchwriting” presents an analogous dilemma for educators and administrators, as they confront the realities of the digital world, a domain in which students have access to seemingly unlimited source material that can easily be copied and pasted into assignments.
+  169  What is patchwriting? A writing technique in which a writer weaves together material from several different sources, almost word-for-word, with his or her own words and ideas, and fails to acknowledge or cite the original sources. The result is a mixture of plagiarized material and original content.
+  170  Source: Northern Illinois University,
+  171  Online Tutorial on Academic Integrity
+  172  The question is, does patchwriting amount to plagiarism? Or, is it something else? Even the experts aren’t certain. Sandra Jamieson and Rebecca Moore Howard are professors who founded the Citation Project, a national research organization that has explored the issue, and in a 2011 interview with Project Information Literacy they had this to say: “Patchwriting is restating a phrase, clause, or one or more sentences while staying close to the language or syntax of the source. We have come to think of patchwriting as an unsuccessful attempt at paraphrasing. In the papers we have analyzed, students often toggle back and forth between paraphrase and patchwriting, as they try to answer the question, “How else can I say this?” You ask whether patchwriting is a form of plagiarism. It could be: a writer could deliberately patchwrite rather than go to the trouble of paraphrasing successfully. In our own experiences as writers, teachers, and adjudicators of plagiarism cases, however, we believe it seldom is. Patchwriting occurs whenever a writer struggles with a source text, and many first-year college students don’t even know that it isn’t ‘paraphrase.’” Another, perhaps more useful way of conceptualizing patchwriting is as a kind of collage of source material that doesn’t include much in the way of insight or original writing from the student author. Think of it as stringing together quotes from various sources without providing context or synthesis. Even if the sources are properly cited, the result won’t be a very good paper. Copyright Infringement vs. PlagiarismMany students—and non-students—get confused about the difference between plagiarism and copyright infringement. Copyright gives an owner several exclusive rights under the federal Copyright Act. According to the U.S. Copyright Office, those rights include:
+  173  The right to reproduce copies of original work(s)
+  174  The right to prepare derivative works
+  175  The right to distribute copies of the work to the public (sale, rental, lease, or lending)
+  176  The right to perform or display the work publicly
+  177  The right to perform the work publicly via digital audio transmission (for sound recordings)
+  178  An individual who does any of the above without receiving permission from the copyright owner may be liable for infringement. All rights apply to both published and unpublished works. In general, the basic differences between plagiarism and copyright infringement are:
+  179  PLAGIARISM
+  180  COPYRIGHT INFRINGEMENT
+  181  Though plagiarism is violation of an academic code, it is not illegalCopyright violation is illegal
+  182  Is an offence against the authorIs an offence against the copyright holder
+  183  Applies when ideas are copiedApplies only when a specific fixed expression is copied
+  184  Avoiding plagiarism involves giving proper intellectual creditCopyright is done to protect original works and to maintain revenue
+  185  Preventing Plagiarism: Proper Citation and Best Practices
+  186  There are a number of different ways to formally cite sources in academic works and in the publishing world outside of academia. Depending on the professor, the discipline, and the institutional policies, footnotes, endnotes, or parenthetical citations may be preferred. There are also different style guides, including the Modern Language Association (MLA) formatting, American Psychological Association (APA) formatting, and Associated Press and Chicago stylebook formatting, which are all easily accessible online. For the purposes of avoiding plagiarism, the key is simply to make sure sources are clearly cited one way or another. Losing points for style may not be ideal, but it beats being brought up on plagiarism charges. Let’s review the key ways in which plagiarism usually surfaces, using the Harvard College Writing Program’s Guide to Using Sources as a guide.
+  187   
+  188  Definition
+  189  The Fix
+  190  Verbatim PlagiarismFailure to use quotation marks around words taken directly from another text, plus a lack of clear attribution for the quote.Add quotation marks and a citation.
+  191  Mosaic PlagiarismA kind of patchwriting in which parts from one or several sources are cobbled together with some of the writer’s own words without adequate attribution.Separate source material and add clear attribution for each.
+  192  Inadequate ParaphraseThe writer only changes a few words in a poor attempt to paraphrase and ends up with something less than a reworked restatement of the original text. Even with proper citation, this can be considered plagiarism if it appears that the writer is wrongly taking credit for restating the original text in his or her own words.Quote the original text directly with attribution.
+  193  Uncited ParaphraseFailure to give the source credit for the ideas it contains, even though the passage has been partially or mostly reworded.Add proper citation prior to or after the paraphrased section.
+  194  Uncited QuotationA direct quote is used with the proper quotation marks, but no citation is included.Add proper citation.
+  195  Examples of proper citation:
+  196  We’ll use this section of text from Dr. Shelly Fisher Fishkin’s essay “Teaching Mark Twain’s Adventures of Huckleberry Finn” to illustrate some common mistakes that can lead to a charge of plagiarism. Something new happened in Huck Finn that had never happened in American literature before. It was a book, as many critics have observed, that served as a Declaration of Independence from the genteel English novel tradition. Huckleberry Finn allowed a different kind of writing to happen: a clean, crisp, no-nonsense, earthy vernacular kind of writing that jumped off the printed page with unprecedented immediacy and energy; it was a book that talked. Huck's voice, combined with Twain's satiric genius, changed the shape of fiction in America, and African-American voices had a great deal to do with making it what it was.
+  197  Verbatim Plagiarism Huck Finn served as a Declaration of Independence from the genteel English novel tradition. Proper Citation As Fishkin points out in an essay on teaching the novel, “Huck Finn served as a Declaration of Independence from the genteel English novel tradition.”
+  198  Mosaic Plagiarism Huck Finn changed the shape of fiction in America. It allowed for a new type of writing to happen, independent of the genteel English novel tradition. Twain’s writing is clean and crisp. It jumps off the page with immediacy and energy. And it crucially incorporates the voice of African-Americans. Proper Citation In her essay on teaching Huck Finn, Fishkin points to several ways in which the novel broke new ground for American fiction: it departed from the “genteel English novel tradition”; it incorporated “earthy vernacular kind of writing that jumped off the printed page with unprecedented immediacy and energy”; and “African-American voices had a great deal to do with making it what it was.”
+  199  Inadequate Paraphrase As many critics have pointed out, Huck Finn was Twain’s way of declaring independence for American fiction from the tradition of the proper English novel, explains Fishkin in her essay on teaching Huck Finn. Proper Paraphrase A big part of what makes Huck Finn such an important literary landmark, according to Fishkin, is the degree to which it freed American writing from the constraints of British novel, incorporating earthy vernacular and African-American voices.
+  200  Uncited Paraphrase Huck Finn is an important landmark in American literature because, in using the earthy vernacular and African-American voices, it cast off the constraints for the genteel British novel. Proper Citation Fishkin cites Huck Finn as an important landmark in American literature because, in using the earthy vernacular and African-American voices, it cast off the constraints for the genteel British novel.
+  201  Uncited Quotation Twain broke new ground for American literature with Huckleberry Finn, allowing “a different kind of writing to happen: a clean, crisp, no-nonsense, earthy vernacular kind of writing that jumped off the printed page with unprecedented immediacy and energy; it was a book that talked.” Proper Citation As Fishkin points out in an essay on teaching the novel, Twain broke new ground for American literature with Huckleberry Finn, allowing “a different kind of writing to happen: a clean, crisp, no-nonsense, earthy vernacular kind of writing that jumped off the printed page with unprecedented immediacy and energy; it was a book that talked.”
+  202  Best Practices: Avoiding Plagiarism
+  203  Plagiarism isn’t the kind of thing that happens when one least expects it. Indeed, most plagiarism — the accidental or unintentional cases — happens exactly when one would expect it to. Students are anxious about their grades, pressured by deadlines, unsure of how to properly cite, disorganized in their research, and doing their best to put the final touches on a paper at the last minute. Too often that’s when plagiarism strikes. Saying don’t do it is sometimes easier said than done. Below are some simple preventative measures drawn from the Council of Writing Program Administrators’ statement on best practices that can help mitigate some of the prime causal factors in plagiarism.
+  204  Know and understand your college’s policy Every school has a student handbook and most are accessible online. Find out how your school defines plagiarism, what the penalties are, and what other resources might be available. For example, more and more colleges and universities have writing centers that can help students get a handle on the issues surrounding plagiarism and the right way to write and cite.Set realistic expectations about success. Often, it’s the fear of failure or an aversion to taking risks that can lead students to plagiarize. Realistically weigh each assignment and understand that getting an undergraduate degree is a process. You don’t have to ace every single paper to graduate and it’s certainly not worth putting yourself under that kind of pressure if the end result may be a plagiarism charge.Manage your time wisely. It may be possible to pull a successful all-nighter if all you have to do is write a five or ten page paper. But research is another thing altogether. Start laying the groundwork early for each assignment by getting the reading and research done early on.Keep your sources organized. Online research and the ability to cut and paste text from various sources may create opportunities for accidental plagiarism, but they can also offer some easy solutions. If you’re cutting and pasting text into a document, make sure it’s in a different font than the default. Use Word to color code material from different sources; save URLs and bookmark websites you’ve used for particular assignments; and keep clear notes. Being able to show where you got uncited information after the fact can actually be a mitigating factor in cases where plagiarism is alleged. It’s worth having good notes going into an assignment and it can also be helpful afterward.When in doubt, cite. It’s a good rule of thumb at first to simply provide a citation whenever you’re not sure. Ask yourself where you got specific ideas, concepts, and information. Is it something you read? Did you copy or cut and paste any text into your paper? If there are any lingering doubts, provide a citation. It’s better to be safe than sorry.
+  205  Putting PLAGIARISM in Context
+  206  There is a persistent and broad perception among educators that plagiarism is indeed on the rise, and plentiful anecdotal information to support that contention. Beyond that, there is an increasing body of research evidence that support the contention that plagiarism remains a pressing problem for students making the transition from high school to college. Here’s what some of the data shows:
+  207  A 2010 Josephson Institute Center for Youth Ethics survey of 43,000 high school students found that one in three admitted to using the Internet to plagiarize an assignment.In a 2010 survey of 24,000 students at 70 high schools conducted by Rutgers Business School Professor Donald McCabe, 64% of students admitted to cheating on a test, 58% admitted to plagiarism, and 95% said they participated in some form of cheating, whether it was on a test, plagiarism or copying homework.In surveys conducted by the same scholar between 2006 and 2010, nearly 40%, or two in five, undergraduates admitted to copying a few sentences for a written assignment.McCabe’s research also found that 7% of college students admitted to copying materials “word-for-word” without citation and another 7% said they turned in work done by another person under their own name.As reported by The Boston Globe, approximately 75% of college students admit to cheating at least once during their college career. This percentage has held steady since 1963, when the first major survey on college cheating was conducted.
+  208  PLAGIARISM FAQS
+  209  Plagiarism can be a complex issue. Below are some common questions that often cross the minds of many students. Is copying off of another student plagiarism?Technically, yes. The definition of plagiarism encompasses passing off another person’s words and ideas as one’s own. Therefore, copying the work of another student for an assignment that is turned in does constitute plagiarism. However, it’s also straight-up cheating, which is a problem unto itself. Is submitting a purchased paper plagiarism?Again, technically it is because it constitutes putting one’s name on written work that someone else has authored. But, as with copying from another student’s work, purchasing a paper is generally an academic violation that falls under the umbrella of cheating and is prohibited for reasons that extend beyond mere plagiarism. Is making up a source plagiarism?No. However, it may constitute academic dishonesty or lying, but it’s not technically plagiarism. Plagiarism tends to reflect a lack of creative thinking; making up a source or a quote may be the result of a surfeit of creativity. Is it plagiarism if you reuse something from your own work?This is a gray area. Schools may prohibit students from submitting the same assignment or piece of writing in more than one class without prior approval of the professors, and this can fall under the general heading of plagiarism. But it doesn’t fit the strict definition of appropriating the words and ideas of another person. Full disclosure is generally the best policy in situations where there might be a conflict. For example, if you want to use work or writing previously done for a class on British history in a Shakespeare class, you should check with the professor or at least include a footnote or endnote with the passage in question. How many words do I have to change in order for it not to be plagiarism?There is no set number of words that would make a difference in respect to plagiarism. In fact, if you find yourself going to the trouble of changing words to avoid plagiarism charges, you’re better off spending that time accurately citing the source. Because, theoretically, it’s possible to plagiarize without using a single word in common with a source, assuming you’re parroting the ideas from that source. Do works in the “public domain” or without the name of an author attached to them have to be cited?Yes, provided you’re quoting from the work or using an idea garnered from the work. If the text itself exists, then it can and should receive attribution, regardless of whether or not the author’s name is known. What are the legal punishments for plagiarism?Plagiarism isn’t a crime in and of itself. Its analogue in the legal domain is copyright infringement, which can lead to civil litigation and substantial penalties. Basically, if you use a large enough part of another person’s work without permission or just cause, it can be considered copyright infringement. Fortunately, academic purposes are generally considered a just cause for referencing portions of another author’s work without permission. How much of a cited text can I use in my own work?Because copyright infringement is unlikely in an academic setting, particularly if no one is profiting from the use of portions of a text, the answer depends on the assignment and the purposes of the citation. For example, if you’re writing a close textual analysis of a poem, using the entire text of that poem is unnecessary and probably won’t serve you well. Quoting from half of the poem may even be too much. But, this isn’t a plagiarism issue; it’s more a question of relevance. If the citation is wrong, is it still plagiarism?This is a tricky one. While it may not seem fair, an incorrect citation does mean that you have failed to properly identify the author and the source. And that is a kind of plagiarism. But policies on this will vary from class to class and professor to professor. Indeed, it’s far more likely that a citation mistake would run afoul of plagiarism policies for upper level undergraduates and graduate students than for students in their first and second years of college. Are hyperlinks considered a form of attribution?This is an unsettled question. For practical purposes, hyperlinks are gaining traction in the realm of online publishing as a means of attribution. But, it can be problematic in cases where the link becomes inactive. In an academic setting, it’s best to assume that hyperlinks are not an adequate means of citation.
+  210  Resources
+  211  There are several online resources available to detect, as well as prevent, plagiarism. Whether you are a student, educator, or concerned parent, the following list of resources provides helpful information and tools for those interested in learning more about plagiarism and how to avoid it.
+  212  Resources on Proper Citation
+  213  Citation Machine
+  214  This site helps researchers and professionals properly site sources used. Users can select from APA, MLA, Chicago, and Turabian citation styles.
+  215  CrossRef
+  216  A collaborative, membership-based association of scholarly publishers, CrossRef calls itself “the citation linking backbone for all scholarly information in electronic form” and serves as a platform for the scholarly community to have easier access to research content.
+  217  EasyBib
+  218  On EasyBib, users can find easy-to-use citation, note taking, and research tools as well as resources on MLA, APA, and Chicago citation styles. The platform also provides tools and information to help educators teach their students how to be effective researchers.
+  219  EndNote
+  220  This reference manager allows users to search databases, collect PDFs, organize sources, build and format bibliographies, and share research. The platform is offered in three versions: EndNote X7 (desktop and online), EndNote for iPad, and EndNote basic (free, online-only).
+  221  Mendeley
+  222  Mendeley is a free reference manager that allows students and researchers to cite as they write, as well as read and annotate PDFs on any device.
+  223  OWL – Research and Citation Resources
+  224  Purdue OWL offers guides and information on research and proper citation. Find information on APA, MLA, and Chicago styles.
+  225  Zotero
+  226  An online, free, and easy-to-use tool to help users collect, organize, cite, and share research sources. Zotero can interact with all types of online resources and allows users to automatically extract and save bibliographic references.
+  227  Resources for Students
+  228  Council of Writing Program Administrators
+  229  A national association of college faculty with professional experience in writing program and curricula, the CWPA includes a section on advice for students concerned about plagiarizing, as well as links to other online assets and tutorials.
+  230  Harvard College Writing Program’s Guide to Using Sources
+  231  Includes a comprehensive overview of how to properly use sources in academic work, including an in-depth section on different kinds of plagiarism and how to avoid common pitfalls in college writing.
+  232  iThenticate
+  233  Developed by Turnitin, iThenticate is the leading provider of professional plagiarism detection. This tool can be used by editors, authors, and researchers to evaluate originality. Text is compared against a database of more than 50 billion web pages and 130 million works.
+  234  Plagiarism.org
+  235  An information website for students who would like to know more about plagiarism and how to avoid it. The site also includes a section on citing sources, creating footnotes and bibliographies, paraphrasing, and using quotes properly.
+  236  PlagTracker.com
+  237  This free online tool allows students, teachers, publishers, and website owners to search assignments for instances of plagiarism. The tool reads and analyzes content in English, French, German, Italian, Romanian, and Spanish.
+  238  Turnitin
+  239  Drawing on the search capabilities of the Internet, as well as a proprietary database of college papers, Turnitin gives students and professors a report that highlights portions of an assignment that are not original work and thus may be plagiarized. The idea is that students then have an opportunity to go back and make sure they’ve provided proper citations for any portion of the work that can be shown to appear elsewhere.
+  240  WriteCheck
+  241  Provided by Pearson, this online tool can be used as a plagiarism checker, as well as a grammar checker. The site notes that the tool is used by both high school and college students and was developed based on feedback from various instructors. Although this tool utilizes the same search database as Turnitin, the main differences are that WriteCheck identifies potential unintended plagiarism and does not find a matching source and WriteCheck papers are not added to a student database of papers.
+  242  Resources for Teachers
+  243  Faculty Tips on Preventing Plagiarism
+  244  Adelphi University created a guide on plagiarism specifically for faculty. The guide includes resources and information and focuses on improved classroom instruction—rather than surveillance—in order to prevent plagiarism and cheating.
+  245  MIT – Comparative Media Studies
+  246  MIT offers basic information on how teachers can prevent plagiarism. In addition to using tools to detect incorrect copying, find out what teachers and professors can do to prevent plagiarism in the first place.
+  247  Plagiarism & Teaching Strategies – Washington State University
+  248  Washington State University has an entire section on its website dedicated to plagiarism, including teaching strategies for professors. WSU notes that poorly constructed assignments can sometimes be the reason students submit low quality work or plagiarize and cheat. Educators can read more about the role of assignment design when it comes to plagiarism and what they can do help prevent academic dishonesty.
+  249  PlagiarismChecker.com
+  250  This free, easy-to-use online tool compares copied-and-pasted phrases against resources found in Google and Yahoo. Users can indicate whether they are a teacher or a student for tailor instructions and results.
+  251  PlagScan
+  252  Both students and teachers can take advantage of this online plagiarism detection tool. In addition to analyzing the originality of a text, the platform also offers various tools to help teachers train students to do quality, original academic writing.
+  253  ReadWriteThink
+  254  This site serves as a reading and language arts resource for educators, parents, and afterschool professionals. Educators can find information and tools on detecting plagiarism as well as lesson plans for teaching students about plagiarism.
+  255  Responding to Plagiarism - DePaul University
+  256  Created by DePaul University, this resource emphasizes approaching plagiarism as an opportunity for learning. Instead of detection and punishment, educators can have open discussions and incorporate creative activities to turn plagiarism into a “learning tool”.
+  257  SafeAssign
+  258  This online tool can be used to detect plagiarism as well as be an educational tool to prevent it.
+  259  sudo apt-get update
+  260  sudo apt-get install sublime-text
+  261  sudo snap "code"
+  262  snap help
+  263  sudo poweroff
+  264  locate pdf
+  265  locate >> pdf Documents
+  266  ls
+  267  cd Documents
+  268  ls
+  269  cd
+  270  stat --printf
+  271  stat
+  272  stat --help
+  273  locate umuzi
+  274  locate .umuzi
+  275  locate umuzi > search_results.md
+  276  cat search_results.md
+  277  sudo poweroff
+  278  git-basic-exercises
+  279  mkdir git-basic-exercises
+  280  cd git-basic-exercises
+  281  ls -a
+  282  git init
+  283  sudo apt install git
+  284  sudo apt lis
+  285  sudo apt list
+  286  mkdir git-basic-exercise
+  287  cd git-basic-exercise
+  288  ls -a
+  289  git init
+  290  sudo apt install git
+  291  sudo apt-get update
+  292  sudo apt install git
+  293  cd /var/lib/dpkg/status
+  294  sudo /var/lib/dpkg/status
+  295  # apt-get install git
+  296  apt-get install git
+  297  sudo apt-get install git
+  298  add-apt-repository ppa:git-core/ppa
+  299  sudo add-apt-repository ppa:git-core/ppa
+  300  apt update
+  301  apt install git
+  302  sudo apt install git
+  303  git
+  304  sudo apt install git
+  305  sudo dpkg --remove --force-all hl1440lpr
+  306  sudo dpkg --remove --force-all git
+  307  sudo rm -i /var/lib/dpkg/info/hl1440lpr.*
+  308  sudo rm -i /var/lib/dpkg/info/git.*
+  309  sudo cp /var/lib/dpkg/status status.bkp
+  310  sudo gedit /var/lib/dpkg/status
+  311  sudo apt install git
+  312  sudo apt update
+  313  sudo apt install git
+  314  sudo apt-get install git-core
+  315  git --version
+  316  sudo rm -i /var/lib/dpkg/info/hl1440lpr.
+  317  sudo dpkg --remove --force-all hl1440lpr
+  318  sudo dpkg --remove --force-all git-core
+  319  sudo apt install git-all
+  320  sudo add-apt-repository ppa:git-core/ppa
+  321  sudo apt update
+  322  apt install git
+  323  sudo apt install git
+  324  shutdown -r
+  325  sudo apt install git-all
+  326  source git-core
+  327  sudo apt-get -f dist-upgrade
+  328  sudo apt install liberror-perl
+  329  sudo apt install perl
+  330  sudo apt install git
+  331  sudo apt update
+  332  sudo apt upgrade
+  333  sudo dpkg-reconfigure --all
+  334  sudo dpkg-reconfigure --a
+  335  reboot
+  336  exit
+  337  sudo apt update
+  338  sudo apt upgrade -y
+  339  sudo apt remove code
+  340  sudo apt --reinstall code
+  341  sudo apt --reinstall install code
+  342  sudo dpkg --remove --force-all code 
+  343  sudo apt update
+  344  reboot
+  345  sudo update
+  346  sudo apt update
+  347  sudo apt upgrade
+  348  sudo apt install git
+  349  git -V
+  350  git --version
+  351  git config --global user.email "portia.mkhabela@umuzi.org"
+  352  git config --global user.name "Portia"
+  353  clear
+  354  cd git-basic-exercises
+  355  echo "# git-basic-exercise" >> README.md
+  356  git add README.md
+  357  git init
+  358  git add README.md
+  359  git commit -m "first commit"
+  360  git remote add origin https://github.com/Portia-arch/git-basic-exercises.git
+  361  git push -u origin master
+  362  cd git-basic-exercises
+  363  git status
+  364  git add
+  365  git add README.md
+  366  git status
+  367  git reset README.md
+  368  git status
+  369  clear
+  370  cd
+  371  mkdir git_basi_exercises
+  372  cd git_basi_exercises
+  373  ls -a
+  374  git init
+  375  ls -a
+  376  git status
+  377  RAEDME.md
+  378  touch RAEDME.md
+  379  ls -a
+  380  git status
+  381  gti log
+  382  git log
+  383  git add README.md
+  384  git add RAEDME.md
+  385  ls -a
+  386  git status
+  387  git reset RAEDME.md
+  388  git status
+  389  git add RAEDME.md
+  390  git status
+  391  git commit -m "initial commit"
+  392  git log
+  393  q
+  394  snap info q
+  395  sudo snap  install q
+  396  nano RAEDME.md
+  397  cat RAEDME.md
+  398  git status
+  399  git commit
+  400  git commit RAEDME.md
+  401  git log
+  402  git commit RAEDME.md
+  403  git commit second commit
+  404  nano RAEDME.md
+  405  git commit -m "third changes"
+  406  git commit -ma "third changes"
+  407  cat commit -ma "third changes"
+  408  cat
+  409  git log
+  410  cd git-basic-exercisess
+  411  cd git-basic-exercises
+  412  git log
+  413  git add README.md
+  414  git status
+  415  nano README.md
+  416  git commit -m "second commit"
+  417  git commit -m "third commit"
+  418  git add README.md
+  419  git commit -m "third commit"
+  420  git status log
+  421  git status
+  422  clear
+  423  git log
+  424  q
+  425  git checkout commit 0be2e21df7acbf30db6c276887dcd7c08c06970c (HEAD -> master)
+  426  git checkout 0be2e21df7acbf30db6c276887dcd7c08c06970c (HEAD -> master)
+  427  git checkout 0be2e21df7acbf30db6c276887dcd7c08c06970c
+  428  cat README.md
+  429  git checkout
+  430  cat README.md
+  431  git branch
+  432  git branch milkshake-flavours
+  433  git branch
+  434  git checkout milkshake-flavours
+  435  git branch
+  436  nano milkshake.md
+  437  git status
+  438  git add
+  439  git add.
+  440  git add .
+  441  git commit milkshake
+  442  git commit milkshake.md
+  443  git log
+  444  git checkout master
+  445  git branch history
+  446  git checkout history
+  447  git log
+  448  history > history.txt
+  449  git commit history
+  450  git commit history.txt
+  451  git commit "added history"
+  452  git log
+  453  git branch milkshake
+  454  git log
+  455  echo "added history" > history
+  456  git log
+  457  git commit README.md
+  458  echo "random readme changes" >> README.md 
+  459  git checkout history
+  460  cat README.md
+  461  rm README.md echo "booya" > README.md
+  462  git checkout history
+  463  rm README.md echo "booya" > README.md
+  464  git commit "rewrote readme"
+  465  clear
+  466  rmdir git-basic-exercises
+  467  cd
+  468  rmdir git-basic-exercises
+  469  clear
+  470  mkdir git-basic-exercises
+  471  cd git-basic-exercises
+  472  ls -a
+  473  git init
+  474  ls -a
+  475  git status
+  476  touch README.md
+  477  ls -a
+  478  git status
+  479  git log
+  480  git add *.md
+  481  git status
+  482  git rm --cached README.md
+  483  git status
+  484  git add README.md
+  485  git reset --README.md
+  486  git reset -- README.md
+  487  git status
+  488  git add README.md
+  489  git status
+  490  git commit -m "initial commit"
+  491  git log
+  492  q
+  493  nano README.md
+  494  cat README.md
+  495  git stats
+  496  git status
+  497  git .
+  498  git add .
+  499  git commit -m "second commit"
+  500  git commit -m "third commit"
+  501  git add .
+  502  git commit -m "third commit"
+  503  git commit
+  504  git status
+  505  git add .
+  506  git commit -m "second commit"
+  507  clear
+  508  cat README.md
+  509  git status
+  510  cd
+  511  rm README.md
+  512  cd git-basic-exercises
+  513  ls
+  514  ls -a
+  515  git init
+  516  ls -a
+  517  git status
+  518  touch README.md
+  519  git status
+  520  ls -a
+  521  git log
+  522  nano README.md
+  523  cat README.md
+  524  git commit -m "third commit"
+  525  git log
+  526  nano README.md
+  527  git add README.md
+  528  git status
+  529  mkdir git-basic-exercise
+  530  cd git-basic-exercise
+  531  ls -a
+  532  git init
+  533  ls -a
+  534  git status
+  535  touch README.md
+  536  ls -a
+  537  git status
+  538  git add README.md
+  539  git log
+  540  git add README.md
+  541  git status
+  542  git rm --cached README.md
+  543  git rm README.md
+  544  git status
+  545  git add README.md
+  546  git status
+  547  git commit -m "initial commit"
+  548  git log
+  549  q
+  550  nano README.md 
+  551  git add README.md
+  552  cat README.md
+  553  git status
+  554  git commit -m "second commit"
+  555  nano README.md
+  556  git add README.md
+  557  cat READM.md
+  558  cat README.md
+  559  git commit -m "third commit"
+  560  git log
+  561  git checkout
+  562  git checkout f75a0239395917847a0f80fc2aa10b770de3f59b
+  563  cat README.md
+  564  git checkout master 
+  565  cat README.md
+  566  git branch
+  567  git branch milkshake-flavours
+  568  git branch
+  569  git checkout milkshake-flavours
+  570  git branch
+  571  pwd
+  572  nano  milkshakes.md
+  573  git status
+  574  git add milkshakes.md
+  575  git commit "added initial flavours"
+  576  git commit "added initial flavours" > milkshakes.md
+  577  git commit -m "added initial flavours" > milkshakes.md
+  578  git log
+  579  git checkout master 
+  580  git add milkshakes.md
+  581  git checkout master 
+  582  git commit milkshakes.md
+  583  git checkout master
+  584  git branch history
+  585  git checkout history
+  586  git log
+  587  history > history.txt
+  588  git add history.txt
+  589  git commit -m "added history"
+  590  git add history.txt
+  591  git log
+  592  git checkout milkshake-flavours
+  593  git log
+  594  nano README.md
+  595  git README.md
+  596  git add README.md
+  597  git commit README.md
+  598  git checkout history
+  599  cat README.md
+  600  rm README.md echo "booya" > README.md
+  601  git rm README.md echo "booya" > README.md
+  602  git rm README.md 
+  603  echo "booya" > README.md
+  604  git rm README.md 
+  605  git rm -f README.md 
+  606  echo "booya" > README.md
+  607  git add README.md
+  608  git commit -m "rewrote readme"
+  609  git checkout master
+  610  ls
+  611  git log
+  612  git checkout milkshake-flavours
+  613  ls
+  614  git log
+  615  git checkout history
+  616  ls
+  617  git log
+  618  git checkout master
+  619  git merge milkshake-flavours
+  620  ls
+  621  git log
+  622  git merge history
+  623  git checkout history
+  624  git merge history
+  625  git add README.md
+  626  git merge history
+  627  git commit -m  README.md
+  628  git merge history
+  629  ls
+  630  git log
+  631  git checkout history
+  632  git log
+  633  git checkout milkshake-flavours
+  634  git log
+  635  git merge history
+  636  git add README.md
+  637  git commit -m README.md
+  638  git checkout master
+  639  git merge history
+  640  6f08bc7b94dffadc3c2c3732aba1aefbda4d1227
+  641  README.md
+  642  git remote add origin https://github.com/Portia-arch/git-basic-exercise.git
+  643  git push -u origin master
+  644  cd
+  645  git branch
+  646  cd git-basic-exercises
+  647  git pull milkshake-flavours
+  648  cd
+  649  git checkout master
+  650  git checkout tech-department
+  651  git checkou
+  652  git checkout
+  653  git checkout master
+  654  git merge history
+  655  ls
+  656  git log
+  657  git push -u origin master
+  658  git log
+  659  ls
+  660  git push -u origin master
+  661  git log
+  662  git branch
+  663  ls
+  664  git checkout tech-department
+  665  cd
+  666  git checkout tech-department
+  667  cd tech-department
+  668  git checkout -b project/git-basic-exercises
+  669  git checkout project/git-basic-exercises
+  670  git remote -v
+  671  git merge project/git-basic-exercises
+  672  git branch
+  673  cd
+  674  git branch
+  675  cd git-basic-exercises
+  676  git checkout git-basic-exercises
+  677  git branch
+  678  git checkout master
+  679  git merge project/git-basic-exercises
+  680  #Initial Commits
+  681  mkdir git-basic-exercises
+  682  cd git-basic-exercises
+  683  ls -a
+  684  git init
+  685  ls -a
+  686  git status
+  687  ls -a
+  688  git status
+  689  git add README.md
+  690  git status
+  691  git rm README.md
+  692  git status
+  693  git add README.md
+  694  git status
+  695  git commit -m "initial commit"
+  696  git remote add origin https://github.com/Portia-arch/linux-challanges.git
+  697  git push -u origin master
+  698  echo "# linux-challanges" >> README.md
+  699  git init
+  700  git add README.md
+  701  git commit -m "first commit"
+  702  git remote add origin https://github.com/Portia-arch/linux-challanges.git
+  703  git push -u origin master
+  704  git branch
+  705  echo "# linux-challanges" >> README.md
+  706  git init
+  707  git add README.md
+  708  git commit -m "first commit"
+  709  git remote add origin https://github.com/Portia-arch/linux-challanges.git
+  710  git push -u origin master
+  711  git push -u milkshake-flavours
+  712  #Initial Commits
+  713  mkdir git-basic-exercises
+  714  cd git-basic-exercises
+  715  ls -a
+  716  git init
+  717  ls -a
+  718  git status
+  719  ls -a
+  720  git status
+  721  git add README.md
+  722  git status
+  723  git rm README.md
+  724  git status
+  725  git add README.md
+  726  git status
+  727  git commit -m "initial commit"
+  728  git log
+  729  git nano README.md 
+  730  cat README.md
+  731  git status
+  732  git commit -m "second commit
+  733  nano README.md 
+  734  cat README.md
+  735  git add README.md
+  736  git commit -m "third commit"
+  737  nano README.md
+  738  cat README.md
+  739  clear
+  740  cd git-basic-exercises
+  741  nano README.md
+  742  cat README.md
+  743  git status
+  744  git add README.md
+  745  git commit -m "second commit"
+  746  nano README.md
+  747  cat README.md
+  748  git status
+  749  git add README.md
+  750  git commit -m "third commit"
+  751  nano README.md
+  752  cat README.md
+  753  git add README.md
+  754  git status
+  755  git log
+  756  git commit -m "initial commit"
+  757  git log
+  758  git checkout
+  759  git checkout 956e066978ab736bf8cb05ccbc28a18b865de4de
+  760  cat README.md
+  761  git checkout master
+  762  cat README.md
+  763  git branch
+  764  git branch milkshake-flavours
+  765  git branch
+  766  git checkout milkshake-flavours
+  767  git branch
+  768  nano milkshakes.md
+  769  git status
+  770  git add milkshakes.md
+  771  git commit -m "added initial flavours"
+  772  git log
+  773  git checkout master
+  774  git branch history
+  775  git checkout history
+  776  git log
+  777  history > history.txt
+  778  git add history.txt
+  779  git commit -m "added history"
+  780  git log
+  781  git checkout milkshake-flavours
+  782  log
+  783  git log
+  784  nano README.md
+  785  git add README.md
+  786  git commit -m README.md
+  787  cat README.md
+  788  git rm README.md
+  789  echo "booya" > README.md
+  790  git commit -m README.md
+  791  git checkout master
+  792  git checkout milkshake-flavours
+  793  nano README.md
+  794  git commit -m "random readme changes"
+  795  git  add README.md
+  796  git log
+  797  mkdir git-basic-exercises1
+  798  cd git-basic-exercises
+  799  ls -a
+  800  git init
+  801  ls -a
+  802  git status
+  803  ls -a
+  804  git status
+  805  git add README.md
+  806  git status
+  807  git rm README.md
+  808  git status
+  809  git add README.md
+  810  git status
+  811  git commit -m "initial commit"
+  812  mkdir git-basic-exercises1
+  813  cd git-basic-exercises
+  814  ls -a
+  815  git init
+  816  ls -a
+  817  git status
+  818  ls -a
+  819  git status
+  820  git add README.md
+  821  git status
+  822  git rm README.md
+  823  git status
+  824  git add README.md
+  825  git status
+  826  git commit -m "initial commit"
+  827  git log
+  828  mkdir git-basic-exercises
+  829  cd git-basic-exercises
+  830  ls -a
+  831  git init
+  832  ls -a
+  833  git status
+  834  ls -a
+  835  git add README.md
+  836  touch README.md
+  837  ls -a
+  838  git status
+  839  git add README.mmd
+  840  git add README.md
+  841  git rm README.md
+  842  git rm -f README.md
+  843  git status
+  844  git add README.md
+  845  mkdir git-basic-exercises1
+  846  cd git-basic-exercises
+  847  ls -a
+  848  git init
+  849  ls -a
+  850  git status
+  851  ls -a
+  852  git status
+  853  git add README.md
+  854  git status
+  855  git rm README.md
+  856  git status
+  857  git add README.md
+  858  git status
+  859  git commit -m "initial commit"
+  860  mkdir git-basic-exercises
+  861  cd git-basic-exercises
+  862  ls -a
+  863  git init
+  864  ls -a
+  865  git status
+  866  touch README.md
+  867  ls -a
+  868  git status
+  869  git add README.md
+  870  git status
+  871  git rm README.md
+  872  git staus
+  873  git status
+  874  git commit -m "initial commit"
+  875  git log
+  876  nano README.md
+  877  cat README.md
+  878  git status
+  879  git add README.md
+  880  nano README.md
+  881  cat README.md
+  882  git status
+  883  git add README.md
+  884  git status
+  885  git commit "second commit"
+  886  git commit -m "second commit"
+  887  git log
+  888  nano README.md
+  889  cat README.md
+  890  git status
+  891  git add README.md
+  892  git commit -m "third commit"
+  893  git log
+  894  git checkout 2c8b6bf59d1d3ce5f43de4ad9663869f3c0089e6
+  895  cat README.md
+  896  git checkout master
+  897  cat RAEDME.md
+  898  cat README.md
+  899  git branch
+  900  git branch milkshake-flavours
+  901  git branch
+  902  git checkout milkshake-flavours
+  903  nano milkshakes.md
+  904  git status
+  905  git add milkshakes.md
+  906  git commit -m "initial flavours"
+  907  git log
+  908  git checkout master
+  909  git log
+  910  git branch history
+  911  git checkout history
+  912  git log
+  913  history > history.txt
